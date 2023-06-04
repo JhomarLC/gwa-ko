@@ -1,0 +1,12 @@
+/*
+TODO:
+1. Number of subjects displayed: 3
+2. Subject Properties: [# of units, final grade]
+3. 1 Button to add new set of subjects.
+4. 1 Button to view GWA
+5. Map subjects to display inputs
+
+OPTIONAL: 
+1. Delete subject
+2. Reset properties
+*/
